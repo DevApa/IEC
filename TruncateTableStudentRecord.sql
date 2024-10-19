@@ -1,0 +1,2 @@
+TRUNCATE TABLE Record
+TRUNCATE TABLE Students
